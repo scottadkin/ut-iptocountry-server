@@ -1,0 +1,24 @@
+{
+  "name": "utiptocountry",
+  "version": "1.0.0",
+  "description": "Unreal Tournament IpToCountry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ut",
+    "ip",
+    "iptocountry",
+    "country",
+    "unreal",
+    "tournament"
+  ],
+  "author": "Scott Adkin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "geoip-country": "^4.0.78",
+    "i18n-iso-countries": "^6.8.0"
+  }
+}
